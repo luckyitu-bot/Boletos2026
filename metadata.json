@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Gestão de Clientes",
+  "description": "Um sistema completo com login para clientes e administradores, incluindo dashboards personalizados.",
+  "requestFramePermissions": []
+}
